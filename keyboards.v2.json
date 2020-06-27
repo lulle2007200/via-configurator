@@ -906,11 +906,11 @@
 						"h":1,
 						"w":1,
 						"color":"mod"
-					},
+					}
 				]
 			},
 			"matrix":{"rows":10,"cols":8},
-			"vendorProductId":4277005545,
+			"vendorProductId":4277005545
 		}
 	}
 }

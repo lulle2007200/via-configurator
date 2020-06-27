@@ -2,10 +2,10 @@
 	"generatedAt":1593300620,
 	"version":"0.1.3",
 	"theme": {
-    "alpha": {"c": "#363434", "t": "#E8C4B8"},
-    "mod": {"c": "#363434", "t": "#E8C4B8"},
-    "accent": {"c": "#E8C4B8", "t": "#363434"}
-  },
+        "alpha": {"c": "#363434", "t": "#E8C4B8"},
+        "mod": {"c": "#363434", "t": "#E8C4B8"},
+        "accent": {"c": "#E8C4B8", "t": "#363434"}
+    },
 	"definitions":{
 		"4277005545": {
 			"name": "Uniqey C70",
@@ -13,6 +13,7 @@
 			"layouts":{
 				"width":17,
 				"height":5,
+                "labels":[],
 				"optionKeys":{},
 				"keys":[
 					{
